@@ -1,3 +1,11 @@
+___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
 ___INFO___
 
 {
@@ -5,6 +13,7 @@ ___INFO___
   "description": "Build an Enhanced Ecommerce object when you need to dynamically construct it instead of using the dataLayer.",
   "__wm": "VGVtcGxhdGUtQXV0aG9yX0VuaGFuY2VkLUVjb21tZXJjZS1PYmplY3QtQnVpbGRlci1TaW1vLUFoYXZh",
   "securityGroups": [],
+  "categories": ["UTILITY", "ANALYTICS", "TAG_MANAGEMENT"],
   "id": "cvt_temp_public_id",
   "type": "MACRO",
   "version": 1,
